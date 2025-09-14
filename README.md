@@ -16,6 +16,9 @@ For simplicity and access to an environment with TPUs/GPUs, copy this notebook o
 These notebooks are free to use if you have a google account and allow for faster training times. Note that any csv files will need to be saved and accessed by this program through the google drive of the user.
 
 
+
+<b> Results of the initial experiemnt </b>
+
 <b>Loss minimization through Gradient Descent</b>
 
 <img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/ed20dadf-088d-45c4-901d-687a3094279c" />
