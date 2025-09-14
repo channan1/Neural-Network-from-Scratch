@@ -17,7 +17,7 @@ These notebooks are free to use if you have a google account and allow for faste
 
 
 
-<b> Results of the initial experiemnt </b>
+## Results of the initial experiment:
 
 <b>Loss minimization through Gradient Descent</b>
 
