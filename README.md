@@ -11,6 +11,7 @@ A feed forward neural network utilizing pandas, numpy and jax.
 7. Run the cells in the Jupyter Notebook sequentially to construct and test the Neural Network from Scratch!
 
 <b>Alternative for GPU/TPU Access</b>
+
 For simplicity and access to an environment with TPUs/GPUs, copy this notebook or the content within each cell and paste it in a Google Colab notebook.
 These notebooks are free to use if you have a google account and allow for faster training times. Note that any csv files will need to be saved and accessed by this program through the google drive of the user.
 
