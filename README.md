@@ -28,4 +28,5 @@ These notebooks are free to use if you have a google account and allow for faste
 
 ## Credits to the following resources
 Kaggle Dataset:              https://www.kaggle.com/datasets/rabieelkharoua/predict-customer-purchase-behavior-dataset
+
 Neural Network From Scratch: https://medium.com/@waadlingaadil/learn-to-build-a-neural-network-from-scratch-yes-really-cac4ca457efc
