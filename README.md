@@ -25,3 +25,7 @@ These notebooks are free to use if you have a google account and allow for faste
 
 <b>Accuracy distribution of tested models</b>
 <img width="989" height="789" alt="image" src="https://github.com/user-attachments/assets/06983acc-f033-4662-a5b1-dc97cf5f82cb" />
+
+## Credits to the following resources
+Kaggle Dataset:              https://www.kaggle.com/datasets/rabieelkharoua/predict-customer-purchase-behavior-dataset
+Neural Network From Scratch: https://medium.com/@waadlingaadil/learn-to-build-a-neural-network-from-scratch-yes-really-cac4ca457efc
