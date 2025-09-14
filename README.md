@@ -15,6 +15,10 @@ A feed forward neural network utilizing pandas, numpy and jax.
 For simplicity and access to an environment with TPUs/GPUs, copy this notebook or the content within each cell and paste it in a Google Colab notebook.
 These notebooks are free to use if you have a google account and allow for faster training times. Note that any csv files will need to be saved and accessed by this program through the google drive of the user.
 
+
+<b>Loss minimization through Gradient Descent</b>
+
 <img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/ed20dadf-088d-45c4-901d-687a3094279c" />
 
+<b>Accuracy distribution of tested models</b>
 <img width="989" height="789" alt="image" src="https://github.com/user-attachments/assets/06983acc-f033-4662-a5b1-dc97cf5f82cb" />
